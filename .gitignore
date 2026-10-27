@@ -1,0 +1,11 @@
+# Документация и системные промпты
+*.md
+docs/
+
+# Скрипты сборки и тестов
+minify_assets.js
+optimize_images.js
+
+# Архивы и бэкапы изображений
+*.zip
+images/backup_webp/
